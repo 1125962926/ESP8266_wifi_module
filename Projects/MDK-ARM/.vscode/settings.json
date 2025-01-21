@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "led.h": "c",
+        "adc.h": "c",
+        "usart2.h": "c",
+        "usart.h": "c",
+        "8266wifi.h": "c",
+        "sstream": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "oled.h": "c"
+    }
+}
